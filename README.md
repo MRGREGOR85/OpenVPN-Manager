@@ -6,7 +6,7 @@ Pick a country, see the ping of every server, connect with one name, run a speed
 
 *by MRGREGOR85*
 
-![Main screen](menu%20tcp_ydp.png)
+![Main screen](screenshots/main-screen.png)
 
 ---
 
@@ -29,10 +29,13 @@ Pick a country, see the ping of every server, connect with one name, run a speed
 ## 📸 Screenshots
 
 ### Server list with ping
-![Server ping](lista%20serwerow%20tcp_udp.png)
+![Server ping](screenshots/server-ping.png)
 
 ### Connected (Ghost Mode)
-![Connected](menu%20tcp_udp.jpg)
+![Connected](screenshots/connected.png)
+
+### Language selection (TAB)
+![Language selection](screenshots/language-select.png)
 
 ### Speedtest
 ![Speedtest](speedtest%20tcp_udp.jpg)
