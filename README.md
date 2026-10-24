@@ -22,7 +22,7 @@ Pick a country, see the ping of every server, connect with one name, run a speed
 - **29 languages**: press `TAB` on the main screen to change the language.
 - **720p window or full screen**: type `fs` to switch.
 - **Auto-fix for NordVPN**: if a server no longer exists, the program downloads fresh server files.
-- Written in Python using only the standard library, with a ready-made `GhostNet.exe`.
+- **Ready-made `GhostNet.exe`**: one file, nothing else to install.
 
 ---
 
@@ -48,7 +48,6 @@ Pick a country, see the ping of every server, connect with one name, run a speed
 - **OpenVPN** installed in `C:\Program Files\OpenVPN\bin` (or GhostVPN in `C:\Program Files\GhostVPN\bin`)
 - Administrator rights (the program asks for them on start, because it needs them for OpenVPN and the firewall)
 - An account with at least one of the supported VPN providers
-- Python 3.10+ is needed **only** if you run the `.py` version instead of the `.exe`
 
 ---
 
@@ -83,7 +82,7 @@ Pick a country, see the ping of every server, connect with one name, run a speed
 3. Run `GhostNet.exe` and accept the administrator prompt.
 4. On the first start, choose your language.
 
-**Running from source:** double-click `uruchom.bat` or run `python ghostnet.py`.
+**Running from source:** double-click `uruchom.bat`.
 **Building the .exe yourself:** run `zbuduj_exe.bat` (it installs PyInstaller and builds `GhostNet.exe`).
 
 ---
