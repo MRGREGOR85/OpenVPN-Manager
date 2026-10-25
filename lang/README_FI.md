@@ -97,6 +97,10 @@ Kirjoita palvelimen nimi luettelosta tai vain sen alku, esimerkiksi `pl1273`, ja
 
 Skripti kysyy OpenVPN-käyttäjätunnusta ja salasanaa ja kertoo, mistä ne löytyvät. NordVPN ja Surfshark käyttävät erillisiä *Service credentials* -tunnuksia, eivät tilin sähköpostia ja salasanaa.
 
+<img src="../screenshots/login.png" alt="Ensimmäinen kirjautuminen" width="100%">
+
+📸 **Ensimmäinen kirjautuminen.** Skripti näyttää, minkä palveluntarjoajan tunnuksista on kyse ja mistä ne saa. Salasana piilotetaan tähdillä. Tunnukset tallennetaan kerran, eikä niitä tarvitse kirjoittaa uudelleen.
+
 <br>
 
 ### 6️⃣ Valmis

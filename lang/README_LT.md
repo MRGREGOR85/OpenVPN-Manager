@@ -97,6 +97,10 @@ Du kartus spustelėk **GhostNet.exe** ir spausk **Taip**, kai Windows paprašys 
 
 Skriptas paprašys OpenVPN vartotojo vardo ir slaptažodžio ir pasakys, kur juos rasti. NordVPN ir Surfshark naudoja atskirus *Service credentials*, o ne paskyros el. paštą ir slaptažodį.
 
+<img src="../screenshots/login.png" alt="Pirmasis prisijungimas" width="100%">
+
+📸 **Pirmasis prisijungimas.** Skriptas rodo, kuriam teikėjui skirti duomenys ir kur juos gauti. Slaptažodis paslėptas žvaigždutėmis. Prisijungimas išsaugomas vieną kartą, kitą kartą jo vesti nereikės.
+
 <br>
 
 ### 6️⃣ Atlikta

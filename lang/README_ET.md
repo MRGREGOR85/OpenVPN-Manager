@@ -97,6 +97,10 @@ Sisesta serveri nimi nimekirjast või ainult selle algus, näiteks `pl1273`, ja 
 
 Skript küsib OpenVPN-i kasutajanime ja parooli ning ütleb, kust need leida. NordVPN ja Surfshark kasutavad eraldi *Service credentials*, mitte konto e-posti ja parooli.
 
+<img src="../screenshots/login.png" alt="Esimene sisselogimine" width="100%">
+
+📸 **Esimene sisselogimine.** Skript näitab, millise teenusepakkuja andmed need on ja kust need saada. Parool on peidetud tärnidega. Sisselogimine salvestatakse üks kord ja järgmisel korral pole vaja seda uuesti sisestada.
+
 <br>
 
 ### 6️⃣ Valmis

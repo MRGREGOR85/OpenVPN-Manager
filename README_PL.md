@@ -97,6 +97,10 @@ Wpisz nazwę serwera z listy albo jej początek, na przykład `pl1273`, i naciś
 
 Program zapyta o login i hasło do OpenVPN i podpowie, gdzie je znaleźć. U NordVPN i Surfshark to osobne *Service credentials*, a nie e-mail i hasło do konta.
 
+<img src="screenshots/login.png" alt="Pierwsze logowanie" width="100%">
+
+📸 **Pierwsze logowanie.** Program pokazuje, dla którego dostawcy podajesz dane i skąd je wziąć. Hasło jest ukryte gwiazdkami. Login zapisuje się raz i przy następnych połączeniach nie trzeba go wpisywać.
+
 <br>
 
 ### 6️⃣ Gotowe

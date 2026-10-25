@@ -97,6 +97,10 @@ Skriv servernavnet fra listen, eller bare begynnelsen, for eksempel `pl1273`, og
 
 Skriptet spør etter OpenVPN-brukernavn og passord og forteller hvor du finner dem. NordVPN og Surfshark bruker egne *Service credentials*, ikke e-post og passord til kontoen.
 
+<img src="../screenshots/login.png" alt="Første pålogging" width="100%">
+
+📸 **Første pålogging.** Skriptet viser hvilken leverandør påloggingen gjelder og hvor du finner den. Passordet skjules med stjerner. Påloggingen lagres én gang, så du slipper å skrive den igjen.
+
 <br>
 
 ### 6️⃣ Ferdig

@@ -97,6 +97,10 @@ Gõ tên máy chủ trong danh sách, hoặc chỉ phần đầu, ví dụ `pl12
 
 Script hỏi tên người dùng và mật khẩu OpenVPN và cho bạn biết tìm chúng ở đâu. NordVPN và Surfshark dùng *Service credentials* riêng, không phải email và mật khẩu tài khoản.
 
+<img src="../screenshots/login.png" alt="Đăng nhập lần đầu" width="100%">
+
+📸 **Đăng nhập lần đầu.** Script cho biết thông tin dành cho nhà cung cấp nào và lấy ở đâu. Mật khẩu được ẩn bằng dấu sao. Thông tin chỉ lưu một lần, lần sau không cần gõ lại.
+
 <br>
 
 ### 6️⃣ Xong

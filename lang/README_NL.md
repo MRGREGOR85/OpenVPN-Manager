@@ -97,6 +97,10 @@ Typ de servernaam uit de lijst, of alleen het begin, bijvoorbeeld `pl1273`, en d
 
 Het script vraagt om je OpenVPN-gebruikersnaam en wachtwoord en zegt waar je ze vindt. NordVPN en Surfshark gebruiken aparte *Service credentials*, niet het e-mailadres en wachtwoord van je account.
 
+<img src="../screenshots/login.png" alt="Eerste login" width="100%">
+
+📸 **Eerste login.** Het script laat zien voor welke aanbieder de login is en waar je hem vindt. Het wachtwoord wordt verborgen met sterretjes. De login wordt één keer opgeslagen, daarna hoef je hem niet opnieuw te typen.
+
 <br>
 
 ### 6️⃣ Klaar

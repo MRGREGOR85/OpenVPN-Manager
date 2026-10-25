@@ -97,6 +97,10 @@ Scrie numele serverului din listă sau doar începutul lui, de exemplu `pl1273`,
 
 Scriptul îți cere numele de utilizator și parola OpenVPN și îți spune unde le găsești. NordVPN și Surfshark folosesc *Service credentials* separate, nu e-mailul și parola contului.
 
+<img src="../screenshots/login.png" alt="Prima autentificare" width="100%">
+
+📸 **Prima autentificare.** Scriptul arată pentru ce furnizor sunt datele și de unde le iei. Parola este ascunsă cu asteriscuri. Datele se salvează o singură dată, data viitoare nu mai trebuie scrise.
+
 <br>
 
 ### 6️⃣ Gata

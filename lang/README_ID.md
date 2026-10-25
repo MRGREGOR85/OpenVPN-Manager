@@ -97,6 +97,10 @@ Ketik nama server dari daftar, atau awalnya saja, misalnya `pl1273`, lalu tekan 
 
 Skrip meminta nama pengguna dan kata sandi OpenVPN dan memberi tahu di mana menemukannya. NordVPN dan Surfshark memakai *Service credentials* terpisah, bukan email dan kata sandi akun.
 
+<img src="../screenshots/login.png" alt="Login pertama" width="100%">
+
+📸 **Login pertama.** Skrip menunjukkan login ini untuk penyedia mana dan di mana mendapatkannya. Kata sandi disembunyikan dengan tanda bintang. Login disimpan sekali, jadi tidak perlu diketik lagi.
+
 <br>
 
 ### 6️⃣ Selesai

@@ -97,6 +97,10 @@ Tippe den Servernamen aus der Liste oder nur seinen Anfang ein, zum Beispiel `pl
 
 Das Skript fragt nach deinem OpenVPN-Benutzernamen und Passwort und sagt dir, wo du sie findest. NordVPN und Surfshark nutzen eigene *Service credentials*, nicht die E-Mail und das Passwort deines Kontos.
 
+<img src="../screenshots/login.png" alt="Erster Login" width="100%">
+
+📸 **Erster Login.** Das Skript zeigt, für welchen Anbieter der Login ist und wo du ihn findest. Das Passwort wird mit Sternchen verborgen. Der Login wird einmal gespeichert, beim nächsten Mal musst du ihn nicht erneut eingeben.
+
 <br>
 
 ### 6️⃣ Fertig

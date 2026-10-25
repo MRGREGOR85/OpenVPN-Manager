@@ -97,6 +97,10 @@ Ieraksti servera nosaukumu no saraksta vai tikai tā sākumu, piemēram, `pl1273
 
 Skripts pajautās OpenVPN lietotājvārdu un paroli un pateiks, kur tos atrast. NordVPN un Surfshark izmanto atsevišķus *Service credentials*, nevis konta e-pastu un paroli.
 
+<img src="../screenshots/login.png" alt="Pirmā pieteikšanās" width="100%">
+
+📸 **Pirmā pieteikšanās.** Skripts parāda, kuram pakalpojumu sniedzējam ir dati un kur tos iegūt. Parole ir paslēpta ar zvaigznītēm. Dati tiek saglabāti vienreiz, nākamreiz tie nav jāievada.
+
 <br>
 
 ### 6️⃣ Gatavs

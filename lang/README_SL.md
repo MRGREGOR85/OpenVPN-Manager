@@ -97,6 +97,10 @@ Vpiši ime strežnika s seznama ali le njegov začetek, na primer `pl1273`, in p
 
 Skripta te vpraša za uporabniško ime in geslo OpenVPN ter pove, kje ju najdeš. NordVPN in Surfshark uporabljata ločene *Service credentials*, ne e-pošte in gesla računa.
 
+<img src="../screenshots/login.png" alt="Prva prijava" width="100%">
+
+📸 **Prva prijava.** Skripta pokaže, za katerega ponudnika so podatki in kje jih dobiš. Geslo je skrito z zvezdicami. Prijava se shrani enkrat in je naslednjič ni treba vpisovati.
+
 <br>
 
 ### 6️⃣ Končano

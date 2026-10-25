@@ -97,6 +97,10 @@ Kattints duplán a **GhostNet.exe** fájlra, és kattints az **Igen** gombra, am
 
 A szkript elkéri az OpenVPN felhasználónevet és jelszót, és megmondja, hol találod őket. A NordVPN és a Surfshark külön *Service credentials* adatokat használ, nem a fiók e-mail-címét és jelszavát.
 
+<img src="../screenshots/login.png" alt="Első bejelentkezés" width="100%">
+
+📸 **Első bejelentkezés.** A szkript megmutatja, melyik szolgáltatóhoz kellenek az adatok, és honnan szerezheted be őket. A jelszót csillagok rejtik. A bejelentkezés egyszer mentődik, legközelebb nem kell újra beírni.
+
 <br>
 
 ### 6️⃣ Kész

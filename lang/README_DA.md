@@ -97,6 +97,10 @@ Skriv servernavnet fra listen, eller bare begyndelsen, for eksempel `pl1273`, og
 
 Scriptet spørger efter dit OpenVPN-brugernavn og din adgangskode og fortæller, hvor du finder dem. NordVPN og Surfshark bruger separate *Service credentials*, ikke kontoens e-mail og adgangskode.
 
+<img src="../screenshots/login.png" alt="Første login" width="100%">
+
+📸 **Første login.** Scriptet viser, hvilken udbyder loginnet gælder, og hvor du finder det. Adgangskoden skjules med stjerner. Loginnet gemmes én gang, så du ikke skal skrive det igen.
+
 <br>
 
 ### 6️⃣ Færdig

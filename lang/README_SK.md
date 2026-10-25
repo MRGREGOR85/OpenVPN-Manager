@@ -97,6 +97,10 @@ Napíš názov servera zo zoznamu alebo len jeho začiatok, napríklad `pl1273`,
 
 Skript sa opýta na používateľské meno a heslo k OpenVPN a poradí, kde ich nájdeš. NordVPN a Surfshark majú samostatné *Service credentials*, nie e-mail a heslo k účtu.
 
+<img src="../screenshots/login.png" alt="Prvé prihlásenie" width="100%">
+
+📸 **Prvé prihlásenie.** Skript ukazuje, pre ktorého poskytovateľa zadávaš údaje a kde ich nájdeš. Heslo je skryté hviezdičkami. Prihlásenie sa uloží raz a nabudúce ho nemusíš písať znova.
+
 <br>
 
 ### 6️⃣ Hotovo

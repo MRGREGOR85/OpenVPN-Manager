@@ -97,6 +97,10 @@ Escribe el nombre del servidor de la lista, o solo su comienzo, por ejemplo `pl1
 
 El script pide tu usuario y contraseña de OpenVPN y te dice dónde encontrarlos. NordVPN y Surfshark usan *Service credentials* aparte, no el correo y la contraseña de tu cuenta.
 
+<img src="../screenshots/login.png" alt="Primer inicio de sesión" width="100%">
+
+📸 **Primer inicio de sesión.** El script muestra para qué proveedor es el usuario y dónde encontrarlo. La contraseña se oculta con asteriscos. El usuario se guarda una vez y no hace falta escribirlo de nuevo.
+
 <br>
 
 ### 6️⃣ Listo

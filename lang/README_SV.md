@@ -97,6 +97,10 @@ Skriv servernamnet från listan, eller bara början, till exempel `pl1273`, och 
 
 Skriptet frågar efter ditt OpenVPN-användarnamn och lösenord och berättar var du hittar dem. NordVPN och Surfshark använder separata *Service credentials*, inte e-post och lösenord till kontot.
 
+<img src="../screenshots/login.png" alt="Första inloggningen" width="100%">
+
+📸 **Första inloggningen.** Skriptet visar vilken leverantör inloggningen gäller och var du hittar den. Lösenordet döljs med asterisker. Inloggningen sparas en gång, nästa gång behöver du inte skriva den igen.
+
 <br>
 
 ### 6️⃣ Klart

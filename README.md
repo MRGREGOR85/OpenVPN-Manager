@@ -97,6 +97,10 @@ Type the server name from the list, or just its beginning, for example `pl1273`,
 
 The program asks for your OpenVPN username and password and tells you where to find them. NordVPN and Surfshark use separate *Service credentials*, not your account e-mail and password.
 
+<img src="screenshots/login.png" alt="First login" width="100%">
+
+📸 **First login.** The program shows which provider the login is for and where to find it. The password is hidden with asterisks. The login is saved once, so you don't type it again next time.
+
 <br>
 
 ### 6️⃣ Done

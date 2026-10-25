@@ -97,6 +97,10 @@ Tape le nom du serveur de la liste, ou juste son début, par exemple `pl1273`, e
 
 Le script demande ton nom d'utilisateur et ton mot de passe OpenVPN et t'indique où les trouver. NordVPN et Surfshark utilisent des *Service credentials* séparés, pas l'e-mail et le mot de passe de ton compte.
 
+<img src="../screenshots/login.png" alt="Première connexion" width="100%">
+
+📸 **Première connexion.** Le script montre pour quel fournisseur sont les identifiants et où les trouver. Le mot de passe est masqué par des astérisques. L'identifiant est enregistré une fois, tu n'as pas à le retaper ensuite.
+
 <br>
 
 ### 6️⃣ Terminé

@@ -97,6 +97,10 @@ Listeden sunucu adını ya da sadece başını yaz, örneğin `pl1273`, ve **Ent
 
 Betik OpenVPN kullanıcı adını ve şifreni sorar ve nerede bulacağını söyler. NordVPN ve Surfshark, hesap e-postan ve şifren yerine ayrı *Service credentials* kullanır.
 
+<img src="../screenshots/login.png" alt="İlk giriş" width="100%">
+
+📸 **İlk giriş.** Betik girişin hangi sağlayıcı için olduğunu ve nerede bulunacağını gösterir. Şifre yıldızlarla gizlenir. Giriş bir kez kaydedilir, bir dahaki sefere tekrar yazmazsın.
+
 <br>
 
 ### 6️⃣ Bitti
