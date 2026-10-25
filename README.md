@@ -1,142 +1,172 @@
-# 💀 GHOST-NET VPN Manager
+<div align="center">
 
-**A console OpenVPN manager for Windows, made for people who like living in `cmd`.**
+<img src="docs/images/banner.png" alt="GHOST-NET VPN MANAGER PRO" width="100%">
 
-Pick a country, see the ping of every server, connect with one name, run a speedtest, and lock your internet behind the VPN with a firewall kill switch, all in a green hacker-style terminal.
+# GHOST-NET VPN MANAGER PRO · Windows 10/11
 
-*by MRGREGOR85*
+### VPN from CMD: pick a country, type a server and you're connected. 19 VPN providers, kill switch and speedtest.
 
-![Main screen](screenshots/main-screen.png)
+<picture><img src="https://img.shields.io/badge/version-2.0-0e6830?style=for-the-badge" alt="version"></picture> <picture><img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 | 11"></picture> <a href="LICENSE"><img src="https://img.shields.io/badge/license-home%20use%20only-red?style=for-the-badge" alt="License"></a>
+
+<a href="https://github.com/MRGREGOR85/OpenVPN-Manager/releases/latest/download/GhostNet.exe"><img src="docs/images/download_en.png" alt="Download GHOST-NET" width="380"></a>
+
+**Windows 10 and 11 · works with GhostVPN**
+
+## [🇵🇱 Polski](README_PL.md) · 🇬🇧 English · [🇩🇪 Deutsch](lang/README_DE.md) · [🇨🇿 Čeština](lang/README_CS.md) · [🇸🇰 Slovenčina](lang/README_SK.md) · [🇺🇦 Українська](lang/README_UK.md) · [🇷🇺 Русский](lang/README_RU.md) · [🇱🇹 Lietuvių](lang/README_LT.md) · [🇱🇻 Latviešu](lang/README_LV.md) · [🇪🇪 Eesti](lang/README_ET.md) · [🇪🇸 Español](lang/README_ES.md) · [🇫🇷 Français](lang/README_FR.md) · [🇮🇹 Italiano](lang/README_IT.md) · [🇵🇹 Português](lang/README_PT.md) · [🇳🇱 Nederlands](lang/README_NL.md) · [🇸🇪 Svenska](lang/README_SV.md) · [🇩🇰 Dansk](lang/README_DA.md) · [🇳🇴 Norsk](lang/README_NO.md) · [🇫🇮 Suomi](lang/README_FI.md) · [🇭🇺 Magyar](lang/README_HU.md) · [🇷🇴 Română](lang/README_RO.md) · [🇧🇬 Български](lang/README_BG.md) · [🇬🇷 Ελληνικά](lang/README_EL.md) · [🇭🇷 Hrvatski](lang/README_HR.md) · [🇷🇸 Српски](lang/README_SR.md) · [🇸🇮 Slovenščina](lang/README_SL.md) · [🇹🇷 Türkçe](lang/README_TR.md) · [🇻🇳 Tiếng Việt](lang/README_VI.md) · [🇮🇩 Indonesia](lang/README_ID.md)
+
+<br>
+
+<img src="screenshots/main-screen.png" alt="GHOST-NET main screen" width="100%">
+
+📸 **Main screen.** At the top: the countries where your provider has servers. Below them: the country codes to type, for example `pl` = Poland. Further down: the kill switch status and the 19 VPN providers, the highlighted one is the one in use. At the very bottom you type a country code.
+
+<br>
+
+---
+
+## 💀 What is GHOST-NET?
+
+A VPN manager in a plain CMD window. It connects you through OpenVPN to a server of your own VPN provider, so websites see the server's IP instead of yours. It uses the same server files as [GhostVPN](https://github.com/MRGREGOR85/GhostVPN-BETA). The program speaks 29 languages. Press `TAB` on the main screen to change the language.
+
+<br>
 
 ---
 
 ## ✨ Features
 
-- **19 VPN providers in one menu**: NordVPN (OpenVPN), ProtonVPN, ExpressVPN, PrivadoVPN, Surfshark, AirVPN, CyberGhost, PIA, IPVanish, OVPN.com, Mullvad, PureVPN, VyprVPN, IVPN, PrivateVPN, Perfect Privacy, HMA, FastVPN and TorGuard.
-- **Country list and code database**: every country with servers is listed, and you just type its code (`pl`, `de`, `us`...).
-- **Fast parallel ping**: up to 300 servers are pinged at the same time, and you see the latency of each one in ms before connecting.
-- **Live connection screen**: status, server IP, ping, location, provider and session time.
-- **Speedtest**: downloads a 1 GB test file from Hetzner through the tunnel and shows the average speed.
-- **Kill switch on the Windows Firewall**: blocks all traffic outside the VPN. Your firewall settings are backed up and restored when you turn it off. Local network (printer, router, NAS) keeps working.
-- **Quick disconnect**: `ALT+C` disconnects from anywhere, including the main screen.
-- **29 languages**: press `TAB` on the main screen to change the language.
-- **720p window or full screen**: type `fs` to switch.
-- **Auto-fix for NordVPN**: if a server no longer exists, the program downloads fresh server files.
-- **Ready-made `GhostNet.exe`**: one file, nothing else to install.
-
----
-
-## 📸 Screenshots
-
-### Server list with ping
-![Server ping](screenshots/server-ping.png)
-
-### Connected (Ghost Mode)
-![Connected](screenshots/connected.png)
-
-### Language selection (TAB)
-![Language selection](screenshots/language-select.png)
-
-### Speedtest
-![Speedtest](speedtest%20tcp_udp.jpg)
-
----
-
-## 🧰 Requirements
-
-- Windows 10 or 11
-- **OpenVPN** installed in `C:\Program Files\OpenVPN\bin` (or GhostVPN in `C:\Program Files\GhostVPN\bin`)
-- Administrator rights (the program asks for them on start, because it needs them for OpenVPN and the firewall)
-- An account with at least one of the supported VPN providers
-
----
-
-## 🚀 Installation
-
-1. Download **`GhostNet.exe`** from [Releases](../../releases) (or download the source code).
-2. Put your provider's `.ovpn` server files into its folder in `C:\Program Files\GhostVPN\`:
-
-   | Provider | Folder |
-   |---|---|
-   | NordVPN (OpenVPN) | `config` |
-   | ProtonVPN | `proton_config` |
-   | ExpressVPN | `express_config` |
-   | PrivadoVPN | `privado_config` |
-   | Surfshark | `surfshark_config` |
-   | AirVPN | `airvpn_config` |
-   | CyberGhost | `cyberghost_config` |
-   | PIA VPN | `pia_config` |
-   | IPVanish | `ipvanish_config` |
-   | OVPN.com | `ovpncom_config` |
-   | Mullvad VPN | `mullvad_config` |
-   | PureVPN | `purevpn_config` |
-   | VyprVPN | `vyprvpn_config` |
-   | IVPN | `ivpn_config` |
-   | PrivateVPN | `privatevpn_config` |
-   | Perfect Privacy | `perfectprivacy_config` |
-   | HMA VPN | `hma_config` |
-   | FastVPN | `fastvpn_config` |
-   | TorGuard | `torguard_config` |
-
-   Example: `C:\Program Files\GhostVPN\config\pl128.nordvpn.com.udp.ovpn`
-3. Run `GhostNet.exe` and accept the administrator prompt.
-4. On the first start, choose your language.
-
-**Running from source:** double-click `uruchom.bat`.
-**Building the .exe yourself:** run `zbuduj_exe.bat` (it installs PyInstaller and builds `GhostNet.exe`).
-
----
-
-## 🕹️ How to use
-
-| On the main screen | What it does |
+| Feature | What it does |
 |---|---|
-| `↑ ↓ ← →` + `ENTER` | choose a VPN provider |
-| type a provider number + `ENTER` | the same, faster |
-| type a country code (e.g. `pl`) + `ENTER` | show servers in that country with ping |
+| **19 VPN providers** | NordVPN, ProtonVPN, Surfshark, Mullvad and more. Switch with the arrow keys or a number. |
+| **Live ping** | The server list shows which server is fastest. |
+| **Kill switch** | Windows Firewall blocks internet outside the VPN. If the tunnel drops, your IP doesn't leak. Your home network keeps working. |
+| **DNS protection** | DNS queries can't leave the tunnel. |
+| **Connection screen** | New IP, city, provider, ping and cipher. |
+| **Speedtest** | Speed test on a 1 GB file, result in Mbit/s. |
+| **Smart errors** | Report in Notepad, the next server suggested, and fresh NordVPN servers downloaded automatically. |
+| **29 languages** | The program speaks 29 languages. Press `TAB` on the main screen to change the language. |
+
+<br>
+
+---
+
+## 📋 What you need
+
+**Windows 10 or 11** · **[GhostVPN](https://github.com/MRGREGOR85/GhostVPN-BETA)** (or [OpenVPN](https://openvpn.net/community-downloads/)) · **a VPN provider account** · **administrator rights** (the program asks for them)
+
+<br>
+
+---
+
+## 📖 Guide
+
+<br>
+
+### 1️⃣ Download
+
+Click **Download GHOST-NET**. Move **GhostNet.exe** to its own folder, for example `C:\GHOST-NET`, because the program saves settings and logins next to itself.
+
+<br>
+
+### 2️⃣ Run it
+
+Double-click **GhostNet.exe** and click **Yes** when Windows asks for permission. If Windows shows a warning: **More info** → **Run anyway**. On the first start, choose your language.
+
+<img src="screenshots/language-select.png" alt="29 languages" width="100%">
+
+📸 **29 languages.** The program speaks 29 languages. Press `TAB` on the main screen to change the language.
+
+<br>
+
+### 3️⃣ Pick a country
+
+Type a country code and press **Enter**, for example `pl`, `de` or `us`. Change the provider with the arrow keys or a number from `1` to `19`.
+
+<br>
+
+### 4️⃣ Pick a server
+
+Type the server name from the list, or just its beginning, for example `pl1273`, and press **Enter**.
+
+<img src="screenshots/server-ping.png" alt="Server list with ping" width="100%">
+
+📸 **Server list.** Each server shows its ping in brackets, the response time: the lower the `ms`, the faster. `udp` is usually faster, `tcp` gets through blocks more easily. At the bottom you type the server you want.
+
+<br>
+
+### 5️⃣ Enter your login (first time only)
+
+The program asks for your OpenVPN username and password and tells you where to find them. NordVPN and Surfshark use separate *Service credentials*, not your account e-mail and password.
+
+<br>
+
+### 6️⃣ Done
+
+<img src="screenshots/connected.png" alt="Connection screen" width="100%">
+
+📸 **Connected.** `NODE_IP` is your new IP that websites see. `PING` is the tunnel speed, `ENCRYPTION` the cipher, and `KILL_SWITCH` tells you whether internet outside the VPN is blocked. `LOCATION` and `PROVIDER` are the server's city and company. At the bottom: `1` speedtest, `2` disconnect, `3` kill switch.
+
+<br>
+
+---
+
+## ⌨️ Commands
+
+| Type | What it does |
+|---|---|
+| `pl`, `de`, `us`… | servers in that country |
+| `1` … `19` | switch VPN provider |
 | `TAB` | change the language |
-| `ks` | kill switch on / off |
-| `fs` | full screen / 720p window |
-| `lang` | change the language (same as TAB) |
-| `ALT+C` | disconnect immediately |
+| `ks` | kill switch on or off |
+| `fs` | full screen or window |
+| `Alt+C` | disconnect the VPN (works everywhere) |
+| `1` / `2` / `3` when connected | speedtest / disconnect / kill switch |
 
-**Connecting step by step:**
-1. Choose the provider.
-2. Type the country code. The program pings all servers and shows the results.
-3. Type the server name. The beginning is enough, e.g. `pl128`.
-4. The first time, enter your VPN **service** username and password. The program shows a hint for each provider, e.g. NordVPN uses *Service credentials* from the Nord Account dashboard, not your e-mail.
-5. When connected, you can choose `[1]` speedtest, `[2]` disconnect or `[3]` kill switch.
+<br>
 
 ---
 
-## 🛡️ Kill switch: how it works
+## 🌍 Providers
 
-When the kill switch is **ON** and you connect:
+`NordVPN` (listed as **OpenVPN**) · `ProtonVPN` · `ExpressVPN` · `PrivadoVPN` · `Surfshark` · `AirVPN` · `CyberGhost` · `PIA VPN` · `IPVanish` · `OVPN.com` · `Mullvad VPN` · `PureVPN` · `VyprVPN` · `IVPN` · `PrivateVPN` · `Perfect Privacy` · `HMA VPN` · `FastVPN` · `TorGuard`
 
-- the Windows Firewall switches to **block all outgoing traffic**,
-- allowed are only the VPN tunnel adapter, the VPN server's IP, `openvpn.exe`, DHCP and your local network,
-- your previous firewall settings are saved to `killswitch_backup.txt` and **restored** when you disconnect or turn the kill switch off.
+GHOST-NET doesn't sell VPN: you use your own account. Add server files in GhostVPN.
 
-If the VPN drops, your real IP does not leak, because nothing goes out outside the tunnel.
+<br>
 
 ---
 
-## 🔒 Your data stays on your PC
+## 🆘 Something is not working?
 
-Your VPN logins are saved **only locally**, next to the program (`Login.txt` and the `loginy` folder). They are never sent anywhere except to your VPN provider by OpenVPN.
+| What I see | What to do |
+|---|---|
+| **OpenVPN**: not installed | Install [GhostVPN](https://github.com/MRGREGOR85/GhostVPN-BETA) or [OpenVPN](https://openvpn.net/community-downloads/). |
+| **.ovpn**: no server files | Add this provider's servers in GhostVPN, or pick another provider. |
+| **AUTH_FAILED** | Choose `1` to try the next server. If none work, choose `2` and enter your login again. |
+| **TUNNEL FAILED** | Read the report in Notepad. Pick another server. |
+| No internet after closing the window | Start the program and choose **REMOVE BLOCK**, or type `ks`. |
 
-⚠️ **Never upload `Login.txt`, the `loginy` or `bledy` folders, or `killswitch_backup.txt` anywhere.**
+> 🔒 Logins stay only on your computer, in the folder next to the program. Don't give that folder to anyone.
+
+<br>
 
 ---
 
 ## 📜 License
 
-Copyright © 2026 **MRGREGOR85**. All rights reserved.
+### Private home use only. GHOST-NET belongs exclusively to its author, MRGREGOR85.
 
-You may use this program for your own private, non-commercial use. You may **not** copy, re-upload, share, modify or sell it without the author's permission. Official sources are only the places where the author has published it, such as this GitHub page. Full text in [LICENSE](LICENSE).
+**You may not** sell it, give or send it to others, upload it to other websites, forums or Discord, use it in a company, modify it or copy its code. Everyone downloads their own copy from this page. Full text: [LICENSE](LICENSE).
+
+<br>
 
 ---
 
-## 👨‍💻 About the author
+## 👨‍💻 Author
 
-**MRGREGOR85**: a hobby project, made for people who like working in the command line, just like me. 💀
+### [MRGREGOR85](https://github.com/MRGREGOR85)
+
+[**GhostVPN**](https://github.com/MRGREGOR85/GhostVPN-BETA) · [**WG Installing**](https://github.com/MRGREGOR85/WG-INSTALLING-BETA) · [**CMD HELP**](https://github.com/MRGREGOR85/Windows-10-11-CMD-HELP-GUI-BETA)
+
+### If GHOST-NET helps you, please leave a ⭐
+
+</div>
