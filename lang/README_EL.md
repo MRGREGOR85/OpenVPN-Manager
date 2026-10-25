@@ -165,6 +165,16 @@
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Πλήρης βιντεο-οδηγός στο YouTube" width="480"></a>
+
+**▶ [Πλήρης βιντεο-οδηγός στο YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Δημιουργός
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

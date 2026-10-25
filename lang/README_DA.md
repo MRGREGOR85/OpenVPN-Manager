@@ -165,6 +165,16 @@ GHOST-NET sælger ikke VPN: du bruger din egen konto. Serverfiler tilføjer du i
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Komplet videovejledning på YouTube" width="480"></a>
+
+**▶ [Komplet videovejledning på YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Forfatter
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

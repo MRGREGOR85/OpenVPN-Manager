@@ -165,6 +165,16 @@ GHOST-NET doesn't sell VPN: you use your own account. Add server files in GhostV
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="docs/images/video.jpg" alt="Full video guide on YouTube" width="480"></a>
+
+**▶ [Full video guide on YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Author
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

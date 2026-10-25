@@ -165,6 +165,16 @@ GHOST-NET nepārdod VPN: tu izmanto savu kontu. Serveru failus pievieno GhostVPN
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Pilna video instrukcija YouTube" width="480"></a>
+
+**▶ [Pilna video instrukcija YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Autors
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

@@ -165,6 +165,16 @@ GHOST-NET не продаёт VPN: ты пользуешься своим акк
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Полная видеоинструкция на YouTube" width="480"></a>
+
+**▶ [Полная видеоинструкция на YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Автор
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

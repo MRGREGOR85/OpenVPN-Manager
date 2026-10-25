@@ -165,6 +165,16 @@ GHOST-NET nu vinde VPN: folosești propriul cont. Fișierele de servere le adaug
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Ghid video complet pe YouTube" width="480"></a>
+
+**▶ [Ghid video complet pe YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Autor
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

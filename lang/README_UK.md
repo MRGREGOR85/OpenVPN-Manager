@@ -165,6 +165,16 @@ GHOST-NET не продає VPN: ти користуєшся власним об
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Повна відеоінструкція на YouTube" width="480"></a>
+
+**▶ [Повна відеоінструкція на YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Автор
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

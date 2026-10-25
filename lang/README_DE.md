@@ -165,6 +165,16 @@ GHOST-NET verkauft kein VPN: du nutzt dein eigenes Konto. Serverdateien fügst d
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Komplette Video-Anleitung auf YouTube" width="480"></a>
+
+**▶ [Komplette Video-Anleitung auf YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Autor
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)

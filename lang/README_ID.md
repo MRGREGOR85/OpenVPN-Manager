@@ -165,6 +165,16 @@ GHOST-NET tidak menjual VPN: Anda memakai akun sendiri. File server ditambahkan 
 
 ---
 
+## 🎬 YouTube
+
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Panduan video lengkap di YouTube" width="480"></a>
+
+**▶ [Panduan video lengkap di YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
+
+<br>
+
+---
+
 ## 👨‍💻 Pembuat
 
 ### [MRGREGOR85](https://github.com/MRGREGOR85)
