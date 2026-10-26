@@ -169,8 +169,6 @@ GHOST-NET ne prodaja VPN: uporabljaš svoj račun. Datoteke strežnikov dodaš v
 
 <a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Celotna video navodila na YouTubu" width="480"></a>
 
-**▶ [Celotna video navodila na YouTubu](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
-
 <br>
 
 ---

@@ -169,8 +169,6 @@ GHOST-NET не продава VPN: използваш собствения си 
 
 <a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Пълно видео ръководство в YouTube" width="480"></a>
 
-**▶ [Пълно видео ръководство в YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
-
 <br>
 
 ---

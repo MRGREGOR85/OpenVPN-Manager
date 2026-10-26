@@ -169,8 +169,6 @@ GHOST-NET không bán VPN: bạn dùng tài khoản của chính mình. Tệp m�
 
 <a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Hướng dẫn video đầy đủ trên YouTube" width="480"></a>
 
-**▶ [Hướng dẫn video đầy đủ trên YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
-
 <br>
 
 ---

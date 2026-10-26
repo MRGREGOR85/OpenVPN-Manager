@@ -169,8 +169,6 @@ GHOST-NET VPN neprodává: používáš svůj vlastní účet. Soubory serverů 
 
 <a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Kompletní videonávod na YouTube" width="480"></a>
 
-**▶ [Kompletní videonávod na YouTube](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
-
 <br>
 
 ---

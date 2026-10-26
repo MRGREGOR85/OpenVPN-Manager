@@ -169,8 +169,6 @@ GHOST-NET ei müü VPN-i: kasutad oma kontot. Serverifailid lisad GhostVPN-is.
 
 <a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Täielik videojuhend YouTube'is" width="480"></a>
 
-**▶ [Täielik videojuhend YouTube'is](https://youtu.be/Fb_61rHk95Y)** 🇵🇱
-
 <br>
 
 ---
