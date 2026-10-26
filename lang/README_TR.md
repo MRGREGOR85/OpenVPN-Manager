@@ -167,7 +167,7 @@ GHOST-NET VPN satmaz: kendi hesabını kullanırsın. Sunucu dosyalarını Ghost
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="YouTube'da tam video kılavuz" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="YouTube'da tam video kılavuz" width="100%"></a>
 
 <br>
 

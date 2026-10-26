@@ -167,7 +167,7 @@ GHOST-NET не продаје VPN: користиш свој налог. Фај�
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Комплетно видео упутство на YouTube-у" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Комплетно видео упутство на YouTube-у" width="100%"></a>
 
 <br>
 

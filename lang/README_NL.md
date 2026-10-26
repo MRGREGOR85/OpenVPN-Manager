@@ -167,7 +167,7 @@ GHOST-NET verkoopt geen VPN: je gebruikt je eigen account. Serverbestanden voeg 
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Volledige videohandleiding op YouTube" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Volledige videohandleiding op YouTube" width="100%"></a>
 
 <br>
 

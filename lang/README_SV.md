@@ -167,7 +167,7 @@ GHOST-NET säljer inte VPN: du använder ditt eget konto. Serverfiler lägger du
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Komplett videoguide på YouTube" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Komplett videoguide på YouTube" width="100%"></a>
 
 <br>
 

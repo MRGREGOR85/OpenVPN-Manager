@@ -167,7 +167,7 @@ A GHOST-NET nem árul VPN-t: a saját fiókodat használod. A szerverfájlokat a
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Teljes videós útmutató a YouTube-on" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Teljes videós útmutató a YouTube-on" width="100%"></a>
 
 <br>
 

@@ -167,7 +167,7 @@ GHOST-NET ei myy VPN:ää: käytät omaa tiliäsi. Palvelintiedostot lisäät Gh
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Täydellinen video-opas YouTubessa" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Täydellinen video-opas YouTubessa" width="100%"></a>
 
 <br>
 

@@ -167,7 +167,7 @@ GHOST-NET non vende VPN: usi il tuo account. Aggiungi i file dei server in Ghost
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Guida video completa su YouTube" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Guida video completa su YouTube" width="100%"></a>
 
 <br>
 

@@ -167,7 +167,7 @@
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Πλήρης βιντεο-οδηγός στο YouTube" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Πλήρης βιντεο-οδηγός στο YouTube" width="100%"></a>
 
 <br>
 

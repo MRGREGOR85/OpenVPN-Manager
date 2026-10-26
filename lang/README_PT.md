@@ -167,7 +167,7 @@ O GHOST-NET não vende VPN: você usa sua própria conta. Adicione os arquivos d
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Guia completo em vídeo no YouTube" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Guia completo em vídeo no YouTube" width="100%"></a>
 
 <br>
 

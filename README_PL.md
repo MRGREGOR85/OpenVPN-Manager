@@ -167,7 +167,7 @@ GHOST-NET nie sprzedaje VPN: korzystasz z własnego konta. Pliki serwerów dodaj
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="docs/images/video.jpg" alt="Pełna instrukcja wideo na YouTube" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="docs/images/video.jpg" alt="Pełna instrukcja wideo na YouTube" width="100%"></a>
 
 <br>
 

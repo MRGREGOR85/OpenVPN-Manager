@@ -167,7 +167,7 @@ GHOST-NET ne prodaje VPN: koristiš vlastiti račun. Datoteke poslužitelja doda
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Potpune video upute na YouTubeu" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Potpune video upute na YouTubeu" width="100%"></a>
 
 <br>
 

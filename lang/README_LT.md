@@ -167,7 +167,7 @@ GHOST-NET neparduoda VPN: naudoji savo paskyrą. Serverių failus pridedi per Gh
 
 ## 🎬 YouTube
 
-<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Išsami vaizdo instrukcija YouTube" width="480"></a>
+<a href="https://youtu.be/Fb_61rHk95Y"><img src="../docs/images/video.jpg" alt="Išsami vaizdo instrukcija YouTube" width="100%"></a>
 
 <br>
 
